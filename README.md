@@ -59,6 +59,7 @@ Every entry links to the official site or the canonical repository. This space m
 - [Codex Cloud](https://learn.chatgpt.com/docs/cloud) - Hosted environment where Codex works on tasks in parallel and returns pull requests.
 - [Copilot Coding Agent](https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-cloud-agent) - Assign a GitHub issue to Copilot and it works in a hosted environment and opens a pull request.
 - [Devin](https://devin.ai) - Hosted autonomous software engineer from Cognition that works on tasks in its own environment.
+- [DevIntern](https://devintern.com/) - Self-hosted worker that picks up ready tracker tickets and runs Claude Code, Codex, Cursor or OpenCode to open pull requests.
 - [Factory](https://factory.com) - Platform of Droid agents that run in the terminal, the browser and CI.
 - [Jules](https://jules.google) - Google's asynchronous agent that clones a repository into a cloud VM and proposes changes.
 - [Open SWE](https://github.com/langchain-ai/open-swe) - Open source asynchronous coding agent from LangChain that plans and executes tasks on a repository.
